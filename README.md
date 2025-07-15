@@ -6,7 +6,7 @@ NewsHub is a modern React-based web application that displays real-time news fro
 
 ## 🚀 Live Demo
 
-🔗 [View Deployed App on Vercel](https://your-vercel-project-url.vercel.app)
+🔗 [View Deployed App on Vercel](https://news-hub-phi.vercel.app/)
 
 ---
 
